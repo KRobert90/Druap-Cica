@@ -1,0 +1,30 @@
+virtual gep host only kartya hozzaadasa
+ssh server telepitese
+adatbazis letrehozasa
+adatbazis felhasznalo letrehozasa
+drupal telepitese
+admin: drupal//drupal
+overlay modul kikapcsolasa
+locale modul bekapcsolasa
+bootstrap theme letoltese es bekapcsolasa
+Kaparofal tartalom tipus hozzaadasa
+drupal verzio ellenorzese
+.po fajl feltoltese a szerverre
+Locale nyelv hozzaadasa (magyar)
+magyar nyelv alapertelmezette tetele
+angol nyelv kikapcsolasa
+Basic Page tartalom tipus torlese
+Article tartalom tipus torlese
+Cica tartalomtipus hozzaadasa
+Update manager telepitese
+Entity modul hozzaadasa es engedelyezese
+Ctools modul hozzadasa es engedelyezese
+Entity reference modul hozzaadasa es engedelyezese
+Cica tartalomtipus body-t toroljuk
+Cica tartalomtipus ->Eletben van?
+Cica elverve hozzadasa
+Cica -> kaparofal hozzaadasa
+Kaparofal body eltavolitasa
+FileField Source hozzaadasa es engedelyezese
+Cicahoz kep hozzadasa elore feltoltott kepekbol valaszthat
+
